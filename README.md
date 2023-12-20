@@ -1,3 +1,12 @@
+## Tugas Besar
+### Pembuat
+- Nama : Rangga Kristiawan
+- NIM : 2209106116
+- Kelas : C 2022
+- Matkul : Pemrograman Web
+
+Untuk penjelasan silahkan klik "[Video Youtube Saya](https://youtu.be/NHcAayWeh6s)".
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
